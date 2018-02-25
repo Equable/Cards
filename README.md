@@ -1,5 +1,14 @@
 # Deck of Cards 
 
+### Contained are the Following
+
+>DeckofCards.cpp
+>>This file calls upon Deck.h and uses this object/variable to define each individual card of the deck. (see code for commented details)
+>
+>Deck.h
+>>This header file contains the pre-defined variables responsible for creating a deck of cards. Suits, Values, as well as the used string array cards.
+
+
 The project does the following:
 
 > 1. Using pre-defined suit types and numbers the software fills each index of an array with the resulting string
