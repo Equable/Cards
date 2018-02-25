@@ -31,7 +31,7 @@
 <h2><b><u>Version</u></b></h2>
 
 >* 1.0: Primary release
->   * Shuffle function \
+>   * Shuffle function 
 >   * Ability to select between 1 to 52 cards
 >   * Display each individual card in a list
 >* 1.1: Bug Fix
